@@ -7,3 +7,4 @@ docker build -t recommendation-system .
 <h2>now you can give command docker login</h2>
 docker push image_name:image_tag          note:- image_tag you can find by giving this command docker images 
 after pushing the image into dockerhub then you easily can deploy your application on any cloud but the problem is that your image size is 1.38 so you have to pay for this much space on cloud
+ok good by
